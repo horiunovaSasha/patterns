@@ -1,0 +1,11 @@
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.exe
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.deps.json
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.json
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.runtimeconfig.dev.json
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\bin\Debug\netcoreapp3.1\SingleResponsibility.pdb
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.AssemblyInfo.cs
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.dll
+C:\Users\OleksandraKoshman\RiderProjects\DesignPatterns\SingleResponsibility\obj\Debug\netcoreapp3.1\SingleResponsibility.pdb
