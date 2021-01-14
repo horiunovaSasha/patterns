@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj": {}
+    "D:\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj": {}
   },
   "projects": {
-    "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj": {
+    "D:\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
+        "projectUniqueName": "D:\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
         "projectName": "SingleResponsibility",
-        "projectPath": "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
+        "projectPath": "D:\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
         "packagesPath": "C:\\Users\\OleksandraKoshman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\obj\\",
+        "outputPath": "D:\\DesignPatterns\\SingleResponsibility\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
           "C:\\Users\\OleksandraKoshman\\AppData\\Roaming\\NuGet\\NuGet.Config",
