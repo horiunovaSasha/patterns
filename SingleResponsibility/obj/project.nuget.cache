@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3sxuMYS82/r7EaHrNhyyPDtZb43UXNodPa94uemO6ryKeEZORj2l82goeYInt75dbWZJTAy2wcvzeI4k+1gwqg==",
+  "dgSpecHash": "X6Jjz5PtXFaTlEZYChzSAx6yAqVDNrjg9r+dBR/lg3s3CJVo2a0LnUJ/tKJhiE3wIPnaBD56LSwuW5WeceMrow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\OleksandraKoshman\\RiderProjects\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
+  "projectFilePath": "D:\\DesignPatterns\\SingleResponsibility\\SingleResponsibility.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
